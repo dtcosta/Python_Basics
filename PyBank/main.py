@@ -20,7 +20,7 @@
     }
    ],
    "source": [
-    "#import modules \n",
+    "#import modules for use\n",
     "\n",
     "import csv\n",
     "import os\n",
@@ -95,7 +95,8 @@
     "fin_analysis.write(f\"Greatest Increase in Profits: {max_chng_month} (${max_change})\\n\")\n",
     "fin_analysis.write(f\"Greatest Decrease in Profits: {min_chng_month} (${min_change})\\n\")\n",
     "  \n",
-    "fin_analysis.close() "
+    "fin_analysis.close() \n",
+    "\n"
    ]
   },
   {

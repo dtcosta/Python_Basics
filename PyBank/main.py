@@ -2,9 +2,23 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 74,
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Financial Analysis\n",
+      "----------------------------\n",
+      "Total Months: 86\n",
+      "Total: $38382578\n",
+      "Average Change: $-2315.12\n",
+      "Greatest Increase in Profits: Feb-12 ($1926159)\n",
+      "Greatest Decrease in Profits: Sep-13 ($-2196167)\n"
+     ]
+    }
+   ],
    "source": [
     "#import modules \n",
     "\n",
@@ -84,6 +98,13 @@
     "  \n",
     "fin_analysis.close() "
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {

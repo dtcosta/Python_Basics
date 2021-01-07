@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 74,
+   "execution_count": 77,
    "metadata": {},
    "outputs": [
     {
@@ -38,7 +38,7 @@
     "    readcsv = csv.reader(csvfile, delimiter = ',')\n",
     "    csv_header = next(csvfile)\n",
     "     \n",
-    "#put the data into lists\n",
+    "#place the data into lists\n",
     "    for row in readcsv:\n",
     "        dates.append(row[0])\n",
     "        profits.append(int(row[1]))\n",
@@ -94,10 +94,16 @@
     "fin_analysis.write(f\"Average Change: {average_month_change}\\n\")\n",
     "fin_analysis.write(f\"Greatest Increase in Profits: {max_chng_month} (${max_change})\\n\")\n",
     "fin_analysis.write(f\"Greatest Decrease in Profits: {min_chng_month} (${min_change})\\n\")\n",
-    " \n",
     "  \n",
     "fin_analysis.close() "
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   },
   {
    "cell_type": "code",

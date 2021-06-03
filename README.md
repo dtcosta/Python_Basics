@@ -51,7 +51,7 @@ Your final script should print the analysis to the terminal and export a text fi
 
 ## PyRamen (Optional)
 
-![ramen.jpg](PyRamen/Images/ramen.jpg)
+![ramen.jpg](PyBank/Images/ramen.jpg)
 
 ## Background
 

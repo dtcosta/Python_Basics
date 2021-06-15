@@ -3,13 +3,11 @@
 ## Background
 
 You've made it! It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. 
-In this homework assignment, you'll be using the concepts you've learned to complete **two** Python activities, PyBank and PyRamen. 
-Both activities present a real-world situation in which your newfound Python skills will come in handy. 
 
 
 ## Before You Begin
 
-1. Create a new GitHub repo called `python-homework`. Then, clone it to your computer.
+1. Create a new GitHub repo then, clone it to your computer.
 
 2. In your local git repository, create a directory for both of the Python activities. Use folder names that correspond to the activities: **PyBank** and **PyRamen**.
 
@@ -65,7 +63,7 @@ You tried doing this type of per-product analysis last year in Excel, but you we
 
 Enter Python! Python provides a wide range of capabilities for handling data, harnessing the power of low-level Python data structures and high-level development libraries, all the while supporting the automation and scalability needs for a growing enterprise.
 
-In this homework assignment, you will need to:
+Here you will need to:
 
 1. [Read the Data](#Read-the-Data)
 
